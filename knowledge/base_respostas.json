@@ -1,0 +1,9 @@
+{
+    "listas": "Listas em Python são estruturas que armazenam múltiplos valores em uma única variável. Exemplo: [1, 2, 3]",
+    "funções": "Funções são blocos de código reutilizáveis definidos com a palavra-chave 'def'.",
+    "classes": "Classes são modelos para criar objetos. Permitem organizar o código em estruturas reutilizáveis.",
+    "dicionarios": "Dicionários armazenam pares chave-valor. Exemplo: {'nome': 'Davi'}",
+    "poo": "POO significa Programação Orientada a Objetos. Envolve conceitos como classes, objetos, herança e encapsulamento.",
+    "loops": "Loops (como for e while) são usados para repetir blocos de código.",
+    "condicionais": "Condicionais como if, elif e else controlam o fluxo do programa com base em condições."
+}
